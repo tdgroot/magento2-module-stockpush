@@ -1,6 +1,6 @@
 # magento2-module-stockpush
 
-This idea came up to me and seemed quite interesting to me, it's 100% educational and will help me study for Magento Certification. 
+This idea came up to me and seemed quite interesting to me, it's 100% educational and will help me study for Magento Certification this summer. 
 It would be really cool, however, if this ends up becoming 'production ready'. We'll see :).
 
 ## Scenario
