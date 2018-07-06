@@ -4,9 +4,9 @@ This idea came up to me and seemed quite interesting to me, it's 100% educationa
 It would be really cool, however, if this ends up becoming 'production ready'. We'll see :).
 
 ## Scenario
-- Lots of stock changes
-- A lot of traffic
-- Page cache shouldn't be cleared based on stock changes
+- Lots of stock changes.
+- A lot of traffic.
+- Product/category page cache shouldn't be cleared on stock changes.
 
 ## Ideas
 - Let stock be loaded using JS components.
